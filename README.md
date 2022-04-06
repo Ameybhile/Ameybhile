@@ -1,14 +1,14 @@
 ### Hey there! 👋
 
 <div align="left">
-<a href="www.linkedin.com/in/ameybhile" target="_blank" rel="nofollow"><img align="left" alt="Amey's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.credly.com/users/amey-bhile" target="_blank" rel="nofollow"><img align="left" alt="Amey's Certificate" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https:/www.linkedin.com/in/ameybhile" target="_blank" rel="nofollow"><img align="left" alt="Amey's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.credly.com/users/amey-bhile" target="_blank" rel="nofollow"><img align="left" alt="Amey's Certificate" width="22px" src="https://img.icons8.com/fluency/48/000000/certificate--v2.png" /></a>
 </div>
 
 <br/>
 <br/>
 
-I am [Amey Bhile](https://github.com/Ameybhile), a passionate Data Science/Machine learning Enthusiast focused developing end to end DataScience pipeline over cloud. 
-Currently pursuing my Masters in Business Analytics which is Product focused Data science program at [University of Michigan Ross School of Business](https://michiganross.umich.edu/)
+I am [Amey Bhile](https://github.com/Ameybhile), a passionate Data Science/Machine learning Enthusiast focused on developing end to end DataScience pipeline and recommendation models over cloud. <br/>
+Currently pursuing my Masters in Business Analytics which is Business focused Data science program at [University of Michigan Ross School of Business](https://michiganross.umich.edu/)
 
 
 ⚡ Technologies I am proficient in: **Python | SQL | Google Cloud | Docker |**
