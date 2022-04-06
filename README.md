@@ -11,8 +11,17 @@ I am [Amey Bhile](https://github.com/Ameybhile), a passionate Data Science/Machi
 Currently pursuing my Masters in Business Analytics which is Business focused Data science program at [University of Michigan Ross School of Business](https://michiganross.umich.edu/)
 
 
-⚡ Technologies I am proficient in: <br/>
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> | <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> | <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> | <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> | <img src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"> | <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> | <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> | <br/>
+⚡ Technologies I am proficient in: 
+<br/>
+<br/>
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+<img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<br/>
 - 🔭 I am currently working on  **End-to-End Machine Learning Application Development**
 - 🌱 The tech I am currently working with : **Google Cloud, SQL, Python, Tensorflow, ML and AI models**
 - 💬 Ask me about anything related to Data science, I am always happy to help
