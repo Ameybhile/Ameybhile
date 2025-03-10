@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-I am [Amey Bhile](https://github.com/Ameybhile), a passionate Data Science/Machine learning Enthusiast focused on developing end-to-end Data Science pipelines and recommendation models over cloud. <br/>
-Currently pursuing my master in Business Analytics which is Business focused Data science program at [University of Michigan Ross School of Business](https://michiganross.umich.edu/)
+I am [Amey Bhile](https://github.com/Ameybhile), a passionate Data analytics Enthusiast focused on developing end-to-end Data Science pipelines and recommendation models over cloud. <br/>
+Completed my master in Business Analytics which is Business focused Data science program at [University of Michigan Ross School of Business](https://michiganross.umich.edu/)
 
 
 ⚡ Technologies I am proficient in: 
